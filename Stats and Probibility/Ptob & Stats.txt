@@ -1,0 +1,12 @@
+Stast & Prob :-
+(i)Central Limit Theorem
+(ii) Mean, Mode, Median
+(iii) Variance and Standard Deviation
+(iv) Correlatioan and covarience
+(v) Baye's theorm
+(vi) Distribution Models
+(vii) Hypothesis Testing
+(viii) Z-Score
+(ix) IQR
+(x) 3-Standard Deviation
+(xi) IRIS DataSet
