@@ -10,3 +10,8 @@ Stast & Prob :-
 (ix) IQR
 (x) 3-Standard Deviation
 (xi) IRIS DataSet
+(xii) Probability Theory
+(xiii)Q-Q Plot
+(xiv) Box-Cox Transformation
+(xv) Permutation and Combinations
+(xvi) Different Types of Test
