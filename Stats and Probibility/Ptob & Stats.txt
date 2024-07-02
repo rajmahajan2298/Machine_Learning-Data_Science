@@ -15,3 +15,5 @@ Stast & Prob :-
 (xiv) Box-Cox Transformation
 (xv) Permutation and Combinations
 (xvi) Different Types of Test
+(xvii) Minmax Scaler
+(xviii)P-value
