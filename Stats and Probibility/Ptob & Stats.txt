@@ -16,4 +16,9 @@ Stast & Prob :-
 (xv) Permutation and Combinations
 (xvi) Different Types of Test
 (xvii) Minmax Scaler
-(xviii)P-value
+(xviii)P-value(Significance value)
+(xix) Z-Test
+(xx) T-Test
+(xxi) PDF
+(xxii)PMF
+(XXiii) CMF
