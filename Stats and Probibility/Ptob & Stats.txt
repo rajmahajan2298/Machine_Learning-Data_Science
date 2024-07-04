@@ -22,3 +22,8 @@ Stast & Prob :-
 (xxi) PDF
 (xxii)PMF
 (XXiii) CMF
+(xxiv) Confidence Interval and Margin of Error
+(xxv) Point Estimatior
+(xxvi) Type 1 and Type 2 Error
+(xxvii) Anova or F-Test
+(xxviii) Chi-Square Test
