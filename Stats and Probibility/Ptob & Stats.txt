@@ -27,3 +27,7 @@ Stast & Prob :-
 (xxvi) Type 1 and Type 2 Error
 (xxvii) Anova or F-Test
 (xxviii) Chi-Square Test
+(xxix) correlation
+(xxx) Covariance
+(xxxi) Banourli's Distribution
+(xxxii) Binomaial Distributions
