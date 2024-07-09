@@ -1,0 +1,35 @@
+Stast & Prob :-
+(i)Central Limit Theorem
+(ii) Mean, Mode, Median
+(iii) Variance and Standard Deviation
+(iv) Correlatioan and covarience
+(v) Baye's theorm
+(vi) Distribution Models
+(vii) Hypothesis Testing
+(viii) Z-Score
+(ix) IQR
+(x) 3-Standard Deviation
+(xi) IRIS DataSet
+(xii) Probability Theory
+(xiii)Q-Q Plot
+(xiv) Box-Cox Transformation
+(xv) Permutation and Combinations
+(xvi) Different Types of Test
+(xvii) Minmax Scaler
+(xviii)P-value(Significance value)
+(xix) Z-Test
+(xx) T-Test
+(xxi) PDF
+(xxii)PMF
+(XXiii) CMF
+(xxiv) Confidence Interval and Margin of Error
+(xxv) Point Estimatior
+(xxvi) Type 1 and Type 2 Error
+(xxvii) Anova or F-Test
+(xxviii) Chi-Square Test
+(xxix) correlation
+(xxx) Covariance
+(xxxi) Banourli's Distribution
+(xxxii) Binomaial Distributions
+(xxxiii) Person Corellation coffiecient
+
