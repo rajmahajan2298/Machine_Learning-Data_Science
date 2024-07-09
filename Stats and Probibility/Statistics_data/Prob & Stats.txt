@@ -32,4 +32,5 @@ Stast & Prob :-
 (xxxi) Banourli's Distribution
 (xxxii) Binomaial Distributions
 (xxxiii) Person Corellation coffiecient
+(xxxiv) Spearman rank correlation Coffiencient
 
