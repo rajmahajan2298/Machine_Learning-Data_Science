@@ -1,0 +1,4 @@
+Anova Test (Analysis of Variance Test)
+Bernourils Distribution
+Binomial Distribution
+Transformation from one distribution to another distribution
