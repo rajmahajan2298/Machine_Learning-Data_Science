@@ -1,0 +1,5 @@
+(i) Data Analysis
+(ii) Feature Engineering
+(iii) Feature Selection
+(iv) Model Building
+(v) Model Deployment
