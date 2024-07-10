@@ -33,4 +33,4 @@ Stast & Prob :-
 (xxxii) Binomaial Distributions
 (xxxiii) Person Corellation coffiecient
 (xxxiv) Spearman rank correlation Coffiencient
-
+(xxxv) F-Distribution
