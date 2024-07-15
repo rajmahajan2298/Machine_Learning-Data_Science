@@ -1,0 +1,5 @@
+Simple Linear Regresion
+Multiple Linear Regresion
+K-Means
+Classification
+Regresion
