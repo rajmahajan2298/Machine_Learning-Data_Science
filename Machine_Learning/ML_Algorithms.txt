@@ -3,3 +3,9 @@ Multiple Linear Regresion
 K-Means
 Classification
 Regresion
+Supervised
+Unsupervised
+Best-fit
+predicated point
+Cost Funtion
+Resudal Error
