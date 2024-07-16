@@ -9,3 +9,8 @@ Best-fit
 predicated point
 Cost Funtion
 Resudal Error
+sklearn
+Standaridazation
+Cross_val_score
+x-train,y-train
+SLR implementation
