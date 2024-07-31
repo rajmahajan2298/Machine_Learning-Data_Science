@@ -1,0 +1,13 @@
+Supervised Learnig --> Have Dependended Features
+-----> Output Feature
+-----> Categorical ---> Classification
+-----> Contnious ---> Regression
+
+Binary Classification ---> Two Category
+Mutlilevel ---> Two or more Category
+
+Unsupervised Learning ---> No Output Features
+------> We are Creating Clussters in this 
+
+Reinforcement Learning 
+-----> The Application will learns the things by itself
