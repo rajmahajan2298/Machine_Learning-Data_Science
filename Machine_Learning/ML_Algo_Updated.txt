@@ -11,3 +11,18 @@ Unsupervised Learning ---> No Output Features
 
 Reinforcement Learning 
 -----> The Application will learns the things by itself
+
+Equation of Straight line -
+
+y = mx+c
+ax+by+c = 0
+
+wTx + b = 0
+wTx = 0
+
+distacne from a plane at top = +ve
+distance from a plane at bottom = -ve
+
+Instance based learning ----> Memorising
+Model based learning -----> Generlizing
+
