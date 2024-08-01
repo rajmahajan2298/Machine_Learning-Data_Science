@@ -44,3 +44,16 @@ Gradient Descent
 Convergence Algoithm ---> Help how to change the value of deta to reach global
 minima.
 
+To find the derivate by using convergence algorithm we create a tangent line.
+If the right side of the tanget line facing towards the downwards we can say 
+it is a (-ve slope) and we need to increase the alpha value.
+If it is facing upwards we can say it is a (+ve slope) and we need to decrease
+the value
+The Alpha in Convergence Equation is Learning rate.
+It shows how our algorithm or at what speed it is learning.
+
+Multiple Linear Regression 
+----> We have Multiple Input features
+----> Multiple slope
+----> One Intercept
+
