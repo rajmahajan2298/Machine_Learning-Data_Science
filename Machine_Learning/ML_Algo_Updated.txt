@@ -26,3 +26,21 @@ distance from a plane at bottom = -ve
 Instance based learning ----> Memorising
 Model based learning -----> Generlizing
 
+Simple Linearing Regression
+----> The Main AIM is to create a best fit line so that the summiation of actaul and predicted point
+must be minimal.
+
+We can create best fit line by using cost functions
+
+Types of Cost Function
+(i)MSE ---> Mean Squared Error
+(ii)RMSE ---> Root Mean Squared Error
+(iii)MAE ---> Absloute Mean Error
+
+Global Minima ---> We need to come to a point know as Global Minima
+by changing the value of 01 and 02 the curve it is found is known as
+Gradient Descent
+
+Convergence Algoithm ---> Help how to change the value of deta to reach global
+minima.
+
