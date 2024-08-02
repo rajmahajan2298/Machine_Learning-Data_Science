@@ -57,3 +57,31 @@ Multiple Linear Regression
 ----> Multiple slope
 ----> One Intercept
 
+Performance Matrix
+(i)R-Squared
+(ii) Adjusted R-Squared
+
+R-Squared ----> Measures the praportion of the variance in the dependent
+variable(y) that is predictable from the independent variable (x).
+
+R-Squared = 1 - (SSE / SST)
+
+SSE = Sum of Square of Errors
+SST = Sum of Square of Total
+
+if R-Squared values indicated better model fit is more.
+
+Adjusted R-Squared ---> Modifies R-Squared to account of the number
+of Predictors in the model.
+
+Adjusted R-Squared = 1 -(SSE /(n-k-1)) / (SST / (n - 1))
+n =  sample size
+k = number of predictors
+
+When to use :-
+
+R-Squared is for simple models or intial evalution.
+Adjusted R-Squared for more complex models or final evalutions.
+
+
+
