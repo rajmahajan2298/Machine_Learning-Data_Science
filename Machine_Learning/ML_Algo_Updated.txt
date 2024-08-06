@@ -83,5 +83,11 @@ When to use :-
 R-Squared is for simple models or intial evalution.
 Adjusted R-Squared for more complex models or final evalutions.
 
+(i)MSE
+(ii) MAE
+(iii) RMSE
+
+Overfitting and Underfitting
+
 
 
