@@ -89,5 +89,9 @@ Adjusted R-Squared for more complex models or final evalutions.
 
 Overfitting and Underfitting
 
+OLS -----> Ordinary Least Square
+
+B0 = y'-b1xi
+B1 = (yi-y')/(xi-x')
 
 
