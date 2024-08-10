@@ -94,4 +94,7 @@ OLS -----> Ordinary Least Square
 B0 = y'-b1xi
 B1 = (yi-y')/(xi-x')
 
+Multiple Linear Regression Implemeatation
+Polnomial Linear Regression
+
 
