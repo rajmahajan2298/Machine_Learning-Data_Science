@@ -97,4 +97,7 @@ B1 = (yi-y')/(xi-x')
 Multiple Linear Regression Implemeatation
 Polnomial Linear Regression
 
+Implementation of Polynomial and Multiple Linear Regression.
+Pipeline in Polynomial
+
 
