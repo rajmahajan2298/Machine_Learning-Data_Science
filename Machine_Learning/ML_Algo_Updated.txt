@@ -100,4 +100,8 @@ Polnomial Linear Regression
 Implementation of Polynomial and Multiple Linear Regression.
 Pipeline in Polynomial
 
+Handling Missing Values
+
+Non-Linear Relationships
+
 
